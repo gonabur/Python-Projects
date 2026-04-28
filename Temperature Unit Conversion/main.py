@@ -142,5 +142,5 @@ if __name__ == "__main__":
     app.geometry("400x300")
     app.resizable(False, False)
     app.title("Pasaje de unidades de Temperatura")
-    app.iconbitmap("C:/Users/gonzx/Desktop/Develop/Python 2k24/Proyectos/Pasaje Temperatura/temp.ico")
+    app.iconbitmap("./Pasaje/temp.ico")
     app.mainloop()
